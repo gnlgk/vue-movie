@@ -17,6 +17,20 @@
 * CSS: 웹 사이트의 스타일링을 담당합니다. CSS를 통해 사용자에게 시각적으로 매력적인 디자인을 제공하여 사용자 경험을 향상시킵니다.
 * TMDB API: 영화 정보를 가져오기 위한 주요 데이터 소스로 사용됩니다. TMDB API를 통해 영화의 제목, 개봉일, 평점, 장르 등의 정보를 얻어옵니다.
 
+## Design
+
+* 메인페이지
+![image](https://github.com/gnlgk/vue-movie/assets/161431748/ec839b78-c34b-4b97-9b00-315e3b4775ff)
+
+* 트레일러
+![image](https://github.com/gnlgk/vue-movie/assets/161431748/f4e495d6-f902-43a0-8525-def24a59fee8)
+
+* 세부정보
+![image](https://github.com/gnlgk/vue-movie/assets/161431748/a670b1ad-a9dd-469b-8ddd-5402df07aabb)
+
+* 검색
+![image](https://github.com/gnlgk/vue-movie/assets/161431748/0cc8ac8c-f549-4d08-ac43-d96cc8674cb6)
+
 ## Project Setup
 
 1. 설치 및 실행
@@ -40,19 +54,6 @@ npm i oh-vue-icons
 npm run build
 ```
 
-## Design
-
-* 메인페이지
-![image](https://github.com/gnlgk/vue-movie/assets/161431748/ec839b78-c34b-4b97-9b00-315e3b4775ff)
-
-* 트레일러
-![image](https://github.com/gnlgk/vue-movie/assets/161431748/f4e495d6-f902-43a0-8525-def24a59fee8)
-
-* 세부정보
-![image](https://github.com/gnlgk/vue-movie/assets/161431748/a670b1ad-a9dd-469b-8ddd-5402df07aabb)
-
-* 검색
-![image](https://github.com/gnlgk/vue-movie/assets/161431748/0cc8ac8c-f549-4d08-ac43-d96cc8674cb6)
 
 
 

@@ -1,0 +1,11 @@
+body {
+    background-color: var(--mainBg);
+    color: var(--black);
+}
+
+.container {
+    width: 90%;
+    max-width: 1400px;
+    margin: 0 auto;
+    position: relative;
+}
